@@ -56,10 +56,19 @@ We use the following tools and libraries throughout this course:
 | 6    | Model Evaluation and Hyperparameter Tuning             |
 | 7    | Unsupervised Learning: Clustering Techniques           |
 | 8    | Unsupervised Learning: Dimensionality Reduction        |
-| 9    | Anomaly Detection and Time Series Analysis             |
-| 10   | Feature Selection and Model Interpretability           |
-| 11   | Reinforcement Learning and Model Deployment            |
-| 12   | Ethical Considerations and Course Review               |
+| 9    | Feature Selection and Model Interpretability           |
+| 10   | Project                                                |
+| 11   | Project                                                |
+| 12   | Project Presentation                                   |
+
+## 📊 Grading Scheme
+| Component                   | Percentage (%) |
+|-----------------------------|----------------|
+| **Assignments**             | 30%            |
+| **Quizzes**                 | 10%            |
+| **Midterm Exam**            | 20%            |
+| **Final Project**           | 30%            |
+| **Project Presentation**    | 10%            |
 
 ## 📜 License
 
