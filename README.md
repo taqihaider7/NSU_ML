@@ -46,27 +46,26 @@ We use the following tools and libraries throughout this course:
 
 ## 📅 Course Schedule
 
-| Week | Topic                                                  |
+| Day  | Topic                                                  |
 |------|--------------------------------------------------------|
 | 1    | Introduction to Machine Learning                       |
-| 2    | Data Preprocessing and Feature Engineering             |
-| 3    | Supervised Learning: Linear Models                     |
-| 4    | Supervised Learning: Non-linear Models                 |
+| 2    | Supervised Learning: Linear Regression                 |
+| 3    | Supervised Learning: Logistic Regression and KNN       |
+| 4    | Supervised Learning: Decision Tree and Random Forest   |
 | 5    | Supervised Learning: SVMs and k-NN                     |
-| 6    | Model Evaluation and Hyperparameter Tuning             |
-| 7    | Unsupervised Learning: Clustering Techniques           |
-| 8    | Unsupervised Learning: Dimensionality Reduction        |
-| 9    | Feature Selection and Model Interpretability           |
-| 10   | Project                                                |
-| 11   | Project                                                |
-| 12   | Project Presentation                                   |
+| 6    | Supervised Learning: Ensemble methods                  |
+| 7    | Practical Aspects                                      |
+| 8    | Asigment: Supervised Learning                          |
+| 9    | Unsupervised Learning: Clustering Techniques           |
+| 10   | Unsupervised Learning: Dimensionality Reduction        |
+| 11   | Asigment: Unsupervised Learning                        |
+| 12   | Final Project                                          |
 
 ## 📊 Grading Scheme
 | Component                   | Percentage (%) |
 |-----------------------------|----------------|
+| **Homeworks**               | 30%            |
 | **Assignments**             | 30%            |
-| **Quizzes**                 | 10%            |
-| **Midterm Exam**            | 20%            |
 | **Final Project**           | 30%            |
 | **Project Presentation**    | 10%            |
 
