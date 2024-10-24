@@ -4,14 +4,17 @@ Welcome to the **Machine Learning Course** repository for Novosibirsk State Univ
 
 ## 📚 Course Overview
 
-This course provides a comprehensive introduction to Machine Learning, covering both theoretical foundations and practical applications. Topics include:
+This hands-on machine learning course covers essential supervised and unsupervised learning techniques. Students will explore key algorithms, including linear regression, decision trees, random forests, KNN, SVMs, and ensemble methods, as well as unsupervised approaches like clustering and dimensionality reduction.
 
-- Supervised Learning: Linear and non-linear models, decision trees, ensemble methods, SVMs, and k-NN
-- Unsupervised Learning: Clustering, dimensionality reduction, and anomaly detection
-- Model Evaluation and Hyperparameter Tuning
-- Feature Engineering and Model Interpretability
-- Reinforcement Learning and Model Deployment
-- Ethical Considerations in Machine Learning
+The course focuses on practical skills, with coding exercises and assignments to reinforce learning. It culminates in a final project where students will apply their knowledge to solve a real-world problem.
+
+Learning Outcomes:
+
+- Understand and implement key machine learning algorithms.
+- Apply techniques to real-world data.
+- Complete a final project demonstrating proficiency.
+
+This course is designed for those who want to develop practical machine learning skills.
 
 ## 🗂 Repository Contents
 
@@ -41,8 +44,9 @@ We use the following tools and libraries throughout this course:
 
 - Python 3.x
 - Jupyter Notebook
-- NumPy, pandas, scikit-learn, matplotlib, seaborn
-- Additional libraries: statsmodels, Flask/Streamlit for deployment
+- NumPy, pandas, scikit-learn, matplotlib
+
+Alternatively, you can upload this notebook to Google Colab or Kaggle for easier access to powerful computational resources and a collaborative environment.
 
 ## 📅 Course Schedule
 
