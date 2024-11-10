@@ -1,20 +1,16 @@
 # NSU Machine Learning Course
 
-Welcome to the **Machine Learning Course** repository for Novosibirsk State University (NSU). This repository contains all course materials, including lecture notes, code examples, lab exercises, assignments, and project guidelines to help students master core machine learning concepts and applications.
+Welcome to the **Machine Learning Course** at Novosibirsk State University. This repository includes all course materials: lecture notes, code examples, labs, assignments, and project guidelines.
 
 ## 📚 Course Overview
 
-This hands-on machine learning course covers essential supervised and unsupervised learning techniques. Students will explore key algorithms, including linear regression, decision trees, random forests, KNN, SVMs, and ensemble methods, as well as unsupervised approaches like clustering and dimensionality reduction.
+This hands-on course covers essential machine learning techniques, including key algorithms like linear regression, decision trees, KNN, SVMs, and clustering. Through coding exercises and assignments, students will apply their skills to real-world data, culminating in a final project.
 
-The course focuses on practical skills, with coding exercises and assignments to reinforce learning. It culminates in a final project where students will apply their knowledge to solve a real-world problem.
+**Learning Outcomes:**
 
-Learning Outcomes:
-
-- Understand and implement key machine learning algorithms.
+- Understand and implement core ML algorithms.
 - Apply techniques to real-world data.
-- Complete a final project demonstrating proficiency.
-
-This course is designed for those who want to develop practical machine learning skills.
+- Complete a final project showcasing practical ML skills.
 
 ## 🗂 Repository Contents
 
@@ -40,7 +36,6 @@ To get started with the course materials:
 
 ## 🛠 Tools and Libraries
 
-We use the following tools and libraries throughout this course:
 
 - Python 3.x
 - Jupyter Notebook
@@ -50,28 +45,30 @@ Alternatively, you can upload this notebook to Google Colab or Kaggle for easier
 
 ## 📅 Course Schedule
 
-| Day  | Topic                                                  |
-|------|--------------------------------------------------------|
-| 1    | Introduction to Machine Learning                       |
-| 2    | Supervised Learning: Linear Regression                 |
-| 3    | Supervised Learning: Logistic Regression and KNN       |
-| 4    | Supervised Learning: Decision Tree and Random Forest   |
-| 5    | Supervised Learning: SVMs and k-NN                     |
-| 6    | Supervised Learning: Ensemble methods                  |
-| 7    | Practical Aspects                                      |
-| 8    | Asigment: Supervised Learning                          |
-| 9    | Unsupervised Learning: Clustering Techniques           |
-| 10   | Unsupervised Learning: Dimensionality Reduction        |
-| 11   | Asigment: Unsupervised Learning                        |
-| 12   | Final Project                                          |
+
+| Lecture | Topic                                                    | Description                                                                                                                       |
+|---------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 1       | **Introduction to Machine Learning**                     | Definition, ML categories (supervised, unsupervised, reinforcement), applications in real life, and discussion on ML pipeline.    |
+| 2       | **Data Preprocessing and Feature Engineering**           | Handling missing data, feature scaling, encoding categorical data, feature selection, and feature extraction techniques.          |
+| 3       | **Supervised Learning: Linear Regression**               | Introduction to regression analysis, simple and multiple linear regression, evaluation metrics (MSE, RMSE).                       |
+| 4       | **Supervised Learning: Logistic Regression and k-NN**    | Classification basics, logistic regression, decision boundary, and k-Nearest Neighbors (k-NN).                                    |
+| 5       | **Tree-based Models: Decision Trees and Random Forests** | Decision trees for classification and regression, overfitting and pruning, introduction to Random Forests.                        |
+| 6       | **Ensemble Learning: Boosting Methods**                  | Bagging vs. boosting, AdaBoost, Gradient Boosting Machines (GBM), XGBoost, and introduction to CatBoost and LightGBM.             |
+| 7       | **Support Vector Machines (SVM)**                        | Theory behind SVM, kernel functions, hyperplane and margin concepts, applications in classification tasks.                        |
+| 8       | **Unsupervised Learning: Clustering Techniques**         | Introduction to clustering, k-Means, hierarchical clustering, evaluating clustering performance.                                  |
+| 9       | **Unsupervised Learning: Dimensionality Reduction**      | Principal Component Analysis (PCA), t-SNE, importance of dimensionality reduction in high-dimensional data.                       |
+| 10      | **Evaluation and Model Selection**                       | Cross-validation, model evaluation metrics for classification and regression, bias-variance trade-off.                            |
+| 11      | **Hyperparameter Tuning and Model Optimization**         | Practical approaches to hyperparameter tuning (Grid Search, Random Search, Bayesian Optimization), using tools like GridSearchCV. |
+| 12      | **Final Project**                                        | Summary of the course, project presentations, feedback, and review of concepts learned throughout the course.                     |
+
 
 ## 📊 Grading Scheme
-| Component                   | Percentage (%) |
-|-----------------------------|----------------|
-| **Homeworks**               | 30%            |
-| **Assignments**             | 30%            |
-| **Final Project**           | 30%            |
-| **Project Presentation**    | 10%            |
+
+| Component         | Weight |
+|-------------------|--------|
+| **Assignments**   | 50%    |
+| **Final Project** | 50%    |
+
 
 ## 📜 License
 
