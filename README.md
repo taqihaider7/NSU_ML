@@ -49,7 +49,7 @@ Alternatively, you can upload this notebook to Google Colab or Kaggle for easier
 | Lecture | Topic                                                    | Description                                                                                                                       |
 |---------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | 1       | **Introduction to Machine Learning**                     | Definition, ML categories (supervised, unsupervised, reinforcement), applications in real life, and discussion on ML pipeline.    |
-| 2       | **Data Preprocessing and Feature Engineering**           | Handling missing data, feature scaling, encoding categorical data, feature selection, and feature extraction techniques.          |
+| 2       | **Data Preprocessing and Feature Engineering**           | Handling duplicated data, missing data, inconsistent data, encoding categorical data, feature selection, and feature extraction techniques.          |
 | 3       | **Supervised Learning: Linear Regression**               | Introduction to regression analysis, simple and multiple linear regression, evaluation metrics (MSE, RMSE).                       |
 | 4       | **Supervised Learning: Logistic Regression and k-NN**    | Classification basics, logistic regression, decision boundary, and k-Nearest Neighbors (k-NN).                                    |
 | 5       | **Tree-based Models: Decision Trees and Random Forests** | Decision trees for classification and regression, overfitting and pruning, introduction to Random Forests.                        |
